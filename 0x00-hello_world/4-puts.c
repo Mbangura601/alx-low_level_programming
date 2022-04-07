@@ -1,9 +1,8 @@
 #include <stuio.h>
-
 /**
- * main - Entry point
+ * main - entry point
  *
- * Return: Always 0 (Successful)
+ * Return: 0 after printing the function
  */
 int main(void)
 {
