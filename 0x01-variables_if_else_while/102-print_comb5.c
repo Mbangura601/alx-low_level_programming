@@ -36,4 +36,13 @@ while (h < 58)
 					putchar(' ');
 				}
 				i++;
-
+			}
+			e++;
+		}
+		g++;
+	}
+	h++;
+}
+putchar('\n');
+return (0);
+}
